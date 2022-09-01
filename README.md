@@ -1,4 +1,8 @@
 ### Hi there 👋
+   I'm kamto, an aspiring software developer
+- 🌱 I’m currently learning cloud engineering @altschool africa
+- 👯 I’m looking to collaborate on anything cloud and oop related
+
 
 <!--
 **emma-ekwealorkamtochukwu/emma-ekwealorkamtochukwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
